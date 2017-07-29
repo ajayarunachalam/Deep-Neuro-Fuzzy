@@ -1,0 +1,66 @@
+Humidity Cluster :
+Cluster 0 items :  (192,)
+min :  63.0 max :  71.0
+Cluster 1 items :  (174,)
+min :  72.0 max :  81.0
+Cluster 2 items :  (63,)
+min :  32.0 max :  51.0
+Cluster 3 items :  (109,)
+min :  82.0 max :  95.0
+Cluster 4 items :  (144,)
+min :  52.0 max :  62.0
+
+
+Peek Hour Cluster :
+Cluster 0 items :  (284,)
+min :  78.0 max :  129.0
+Cluster 1 items :  (111,)
+min :  8.0 max :  38.0
+Cluster 2 items :  (287,)
+min :  39.0 max :  77.0
+
+
+RainFall Cluster :
+Cluster 0 items :  (608,)
+min :  0.0 max :  4.0
+Cluster 1 items :  (42,)
+min :  5.0 max :  15.0
+Cluster 2 items :  (32,)
+min :  17.0 max :  30.0
+
+
+Temperature Cluster :
+Cluster 0 items :  (208,)
+min :  22.0 max :  26.0
+Cluster 1 items :  (334,)
+min :  27.0 max :  34.0
+Cluster 2 items :  (140,)
+min :  13.0 max :  21.0
+
+
+Wind Cluster :
+Cluster 0 items :  (64,)
+min :  8.0 max :  15.0
+Cluster 1 items :  (210,)
+min :  2.0 max :  4.0
+Cluster 2 items :  (304,)
+min :  0.0 max :  1.0
+Cluster 3 items :  (104,)
+min :  5.0 max :  7.0
+
+Process finished with exit code 0
+
+
+Road Status:
+0 : open road
+1 : close road
+
+
+Road Construction:
+o : normal level
+1 : medium level
+2 : high level
+
+Road Accident:
+0 : no accident
+1 : accident occurred
